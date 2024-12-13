@@ -1,7 +1,3 @@
-# FLIGHT API PROJECT
-
-This project is about a flight project.
-
 ## Used Technologies
 
 **Backend:** Java 17, Spring Boot 3, Maven, JPA
